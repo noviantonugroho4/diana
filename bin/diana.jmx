@@ -87,7 +87,7 @@ wait.until(conditions.presenceOfElementLocated(pkg.By.cssSelector(&quot;#sqico-s
 WDS.log.info(&quot;frame button Mulai Chat&quot;);
 wait.until(conditions.presenceOfElementLocated(pkg.By.xpath(&quot;/html/body/section/footer/div/em&quot;)));
 WDS.log.info(&quot;button Mulai Chat&quot;);
-java.lang.Thread.sleep(2000)
+java.lang.Thread.sleep(4000)
 var mulaichat = WDS.browser.findElement(pkg.By.xpath(&apos;/html/body/section/footer/div/em&apos;));
 mulaichat.click();
 WDS.log.info(&quot;Click Mulai Chat&quot;);
