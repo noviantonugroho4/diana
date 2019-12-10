@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<sample t="4466" it="0" lt="0" ct="0" ts="1575951256663" s="false" lb="WebDriver Diana" rc="500" rm="element click intercepted: Element &lt;iframe id=&quot;siqiframe&quot; seamless=&quot;seamless&quot; height=&quot;460&quot; width=&quot;100%&quot; scrolling=&quot;no&quot; cd_frame_id_=&quot;263c1c9e5aa6b87fcf958cf6dd1ab1be&quot;&gt;&lt;/iframe&gt; is not clickable at point (400, 528). Other element would receive the click: &lt;div class=&quot;zls-sptwndw  siqembed siqtrans zsiq-mobhgt zsiq-newtheme siq_rht zsiq_size3 siq_showload siqanim&quot; embedtheme=&quot;8&quot; style=&quot;visibility: hidden;&quot;&gt;...&lt;/div&gt;&#xa;  (Session info: headless chrome=78.0.3904.108)&#xa;Build info: version: &apos;3.14.0&apos;, revision: &apos;aacccce0&apos;, time: &apos;2018-08-02T20:19:58.91Z&apos;&#xa;System info: host: &apos;DESKTOP-UOJ8RS0&apos;, ip: &apos;10.2.201.31&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;x86&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_231&apos;&#xa;Driver info: org.openqa.selenium.chrome.ChromeDriver&#xa;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.108, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\Nugie\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62016}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(autodetect), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}&#xa;Session ID: c4a114042b1d878be1a519cc56a46fa9" tn="Users 1-1" dt="text" by="3577" sby="0" ng="3" na="3"/>
+<httpSample t="210" it="0" lt="44" ct="21" ts="1575951261131" s="true" lb="Diana - HTTP Request" rc="200" rm="OK" tn="Users 1-1" dt="text" by="13198" sby="252" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="44" it="0" lt="44" ct="21" ts="1575951261131" s="true" lb="Diana - HTTP Request-0" rc="301" rm="Moved Permanently" tn="Users 1-1" dt="text" by="590" sby="126" ng="3" na="3">
+    <java.net.URL>http://slimfitprod.kalina.ai/</java.net.URL>
+  </httpSample>
+  <httpSample t="165" it="0" lt="165" ct="81" ts="1575951261176" s="true" lb="Diana - HTTP Request-1" rc="200" rm="OK" tn="Users 1-1" dt="text" by="12608" sby="126" ng="3" na="3">
+    <java.net.URL>https://slimfitprod.kalina.ai</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://slimfitprod.kalina.ai</java.net.URL>
+</httpSample>
+<sample t="4681" it="0" lt="0" ct="0" ts="1575951256931" s="false" lb="WebDriver Diana" rc="500" rm="element click intercepted: Element &lt;iframe id=&quot;siqiframe&quot; seamless=&quot;seamless&quot; height=&quot;460&quot; width=&quot;100%&quot; scrolling=&quot;no&quot; cd_frame_id_=&quot;24f4326496f0f3a2b67453cde140e035&quot;&gt;&lt;/iframe&gt; is not clickable at point (400, 528). Other element would receive the click: &lt;div class=&quot;zls-sptwndw  siqembed siqtrans zsiq-mobhgt zsiq-newtheme siq_rht zsiq_size3 siq_showload siqanim&quot; embedtheme=&quot;8&quot; style=&quot;visibility: hidden;&quot;&gt;...&lt;/div&gt;&#xa;  (Session info: headless chrome=78.0.3904.108)&#xa;Build info: version: &apos;3.14.0&apos;, revision: &apos;aacccce0&apos;, time: &apos;2018-08-02T20:19:58.91Z&apos;&#xa;System info: host: &apos;DESKTOP-UOJ8RS0&apos;, ip: &apos;10.2.201.31&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;x86&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_231&apos;&#xa;Driver info: org.openqa.selenium.chrome.ChromeDriver&#xa;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.108, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\Nugie\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62023}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(autodetect), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}&#xa;Session ID: 778d166c084750f27860579d7657c08f" tn="Users 1-2" dt="text" by="3577" sby="0" ng="3" na="3"/>
+<sample t="4516" it="0" lt="0" ct="0" ts="1575951257288" s="false" lb="WebDriver Diana" rc="500" rm="element click intercepted: Element &lt;iframe id=&quot;siqiframe&quot; seamless=&quot;seamless&quot; height=&quot;460&quot; width=&quot;100%&quot; scrolling=&quot;no&quot; cd_frame_id_=&quot;00e9b3264f427011ec7bd2c11de216c8&quot;&gt;&lt;/iframe&gt; is not clickable at point (400, 528). Other element would receive the click: &lt;div class=&quot;zls-sptwndw  siqembed siqtrans zsiq-mobhgt zsiq-newtheme siq_rht zsiq_size3 siq_showload siqanim&quot; embedtheme=&quot;8&quot; style=&quot;visibility: hidden;&quot;&gt;...&lt;/div&gt;&#xa;  (Session info: headless chrome=78.0.3904.108)&#xa;Build info: version: &apos;3.14.0&apos;, revision: &apos;aacccce0&apos;, time: &apos;2018-08-02T20:19:58.91Z&apos;&#xa;System info: host: &apos;DESKTOP-UOJ8RS0&apos;, ip: &apos;10.2.201.31&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;x86&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_231&apos;&#xa;Driver info: org.openqa.selenium.chrome.ChromeDriver&#xa;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.108, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\Nugie\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62030}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(autodetect), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}&#xa;Session ID: 3e310ec2b462becc24b7c915bd3861e5" tn="Users 1-3" dt="text" by="3577" sby="0" ng="3" na="3"/>
+<httpSample t="213" it="0" lt="91" ct="54" ts="1575951261614" s="true" lb="Diana - HTTP Request" rc="200" rm="OK" tn="Users 1-2" dt="text" by="13198" sby="252" ng="3" na="3">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="91" it="0" lt="91" ct="54" ts="1575951261614" s="true" lb="Diana - HTTP Request-0" rc="301" rm="Moved Permanently" tn="Users 1-2" dt="text" by="590" sby="126" ng="3" na="3">
+    <java.net.URL>http://slimfitprod.kalina.ai/</java.net.URL>
+  </httpSample>
+  <httpSample t="121" it="0" lt="121" ct="90" ts="1575951261706" s="true" lb="Diana - HTTP Request-1" rc="200" rm="OK" tn="Users 1-2" dt="text" by="12608" sby="126" ng="3" na="3">
+    <java.net.URL>https://slimfitprod.kalina.ai</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://slimfitprod.kalina.ai</java.net.URL>
+</httpSample>
+<httpSample t="230" it="0" lt="95" ct="67" ts="1575951261805" s="true" lb="Diana - HTTP Request" rc="200" rm="OK" tn="Users 1-3" dt="text" by="13198" sby="252" ng="2" na="2">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="95" it="0" lt="95" ct="67" ts="1575951261805" s="true" lb="Diana - HTTP Request-0" rc="301" rm="Moved Permanently" tn="Users 1-3" dt="text" by="590" sby="126" ng="2" na="2">
+    <java.net.URL>http://slimfitprod.kalina.ai/</java.net.URL>
+  </httpSample>
+  <httpSample t="134" it="0" lt="134" ct="85" ts="1575951261901" s="true" lb="Diana - HTTP Request-1" rc="200" rm="OK" tn="Users 1-3" dt="text" by="12608" sby="126" ng="2" na="2">
+    <java.net.URL>https://slimfitprod.kalina.ai</java.net.URL>
+  </httpSample>
+  <java.net.URL>https://slimfitprod.kalina.ai</java.net.URL>
+</httpSample>
+
+</testResults>
