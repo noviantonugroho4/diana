@@ -18,7 +18,7 @@
           <boolProp name="LoopController.continue_forever">false</boolProp>
           <stringProp name="LoopController.loops">1</stringProp>
         </elementProp>
-        <stringProp name="ThreadGroup.num_threads">3</stringProp>
+        <stringProp name="ThreadGroup.num_threads">1</stringProp>
         <stringProp name="ThreadGroup.ramp_time">1</stringProp>
         <boolProp name="ThreadGroup.scheduler">false</boolProp>
         <stringProp name="ThreadGroup.duration"></stringProp>
@@ -87,6 +87,7 @@ wait.until(conditions.presenceOfElementLocated(pkg.By.cssSelector(&quot;#sqico-s
 WDS.log.info(&quot;frame button Mulai Chat&quot;);
 wait.until(conditions.presenceOfElementLocated(pkg.By.xpath(&quot;/html/body/section/footer/div/em&quot;)));
 WDS.log.info(&quot;button Mulai Chat&quot;);
+java.lang.Thread.sleep(2000)
 var mulaichat = WDS.browser.findElement(pkg.By.xpath(&apos;/html/body/section/footer/div/em&apos;));
 mulaichat.click();
 WDS.log.info(&quot;Click Mulai Chat&quot;);
